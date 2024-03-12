@@ -5,7 +5,7 @@ This is a simple 2D platformer game. I created it to learn how to create maps in
 The game is simple, it has one charecter and you use the "wasd" and the space bar to try and find and collect the banana. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/U5Rdc7asAyI)
 
 # Development Environment
 
